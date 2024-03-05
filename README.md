@@ -7,16 +7,16 @@ This MATLAB program simulates the Whitworth Quick Return Mechanism, a mechanical
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/whitworth-quick-return.git
-    cd whitworth-quick-return
+    git clone https://github.com/your-username/whitworth.git
+    cd whitworth
     ```
 
 2. **Run the MATLAB script:**
 
-    Open MATLAB and execute the script `whitworth_quick_return.m`.
+    Open MATLAB and execute the script `whitworth.m`.
 
     ```matlab
-    whitworth_quick_return
+    whitworth
     ```
 
     This will prompt you to enter the number of revolutions for the simulation.
